@@ -1,0 +1,1 @@
+This repository contains views for various ERP systems to extract the required data in the proper format to use with SchedulingAssistant or Planner
